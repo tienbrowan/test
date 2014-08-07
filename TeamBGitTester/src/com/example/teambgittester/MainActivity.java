@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 
 		for (int i = 0; i < 1000; i++) {
-
+// dpd đ,đ,d,d,d, ở dưới này lạnh lắm 
 		}
 	}
 }
