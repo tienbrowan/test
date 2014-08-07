@@ -3,6 +3,7 @@ package com.example.teambgittester;
 import android.app.Activity;
 import android.os.Bundle;
 
+
 public class MainActivity extends Activity {
 
 	@Override
@@ -10,5 +11,8 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+		for (int i = 0; i < 1000; i++) {
+
+		}
 	}
 }
