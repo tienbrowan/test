@@ -5,5 +5,8 @@
     <string name="hello_world">Hello world!</string>
 
     <!-- test -->
-    <string name="app_name232">TeamBGitTester</string>
+    <string name="app_name2">TeamBGitTester</string>
+    <!-- test1 -->
+    <string name="app_name3">TeamBGitTester</string>
+
 </resources>
