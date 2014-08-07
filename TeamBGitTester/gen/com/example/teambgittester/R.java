@@ -15,9 +15,13 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int layouttest=0x7f030001;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
+        /**  test 
+         */
+        public static final int app_name232=0x7f040002;
         public static final int hello_world=0x7f040001;
     }
     public static final class style {
