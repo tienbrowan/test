@@ -11,12 +11,10 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		// xinchao
 
-		// kadhfa
-		// lahsfla
 		// them nhe1
 		// them2
 		// quen khong sua
 		// them3
-		// them 4
+
 	}
 }
