@@ -18,10 +18,21 @@ public final class R {
         public static final int layouttest=0x7f030001;
     }
     public static final class string {
+        /**  Vu 
+         */
+        public static final int app_dsaname3=0x7f040005;
+        public static final int app_hfghname2=0x7f040004;
+        /**  test1 
+         */
+        public static final int app_naadasdadme3=0x7f040007;
         public static final int app_name=0x7f040000;
         /**  test 
          */
-        public static final int app_name232=0x7f040002;
+        public static final int app_name2=0x7f040002;
+        /**  test1 
+         */
+        public static final int app_name3=0x7f040003;
+        public static final int appđá_name2=0x7f040006;
         public static final int hello_world=0x7f040001;
     }
     public static final class style {

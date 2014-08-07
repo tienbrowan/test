@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 
 		for (int i = 0; i < 1000; i++) {
 //đồ điên
+// dpd đ,đ,d,d,d, ở dưới này lạnh lắm 
 		}
 	}
 }
