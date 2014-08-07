@@ -18,5 +18,6 @@ public class MainActivity extends Activity {
 		// quen khong sua
 		// them3
 		// them 4
+		alo xo
 	}
 }
