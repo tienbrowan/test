@@ -1,6 +1,13 @@
 package com.example.teambgittester;
 
-public class TestNew {
-	//thử thôi
+import android.app.Activity;
+import android.os.Bundle;
 
+public class TestNew extends Activity {
+	//thử thôi
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+	// TODO Auto-generated method stub
+	super.onCreate(savedInstanceState);
+}
 }
